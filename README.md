@@ -39,6 +39,7 @@ This project aims to collect the **best free resources** for those that want to 
 1. [React's Official Guides](https://facebook.github.io/react/docs/why-react.html) & [Tips](https://facebook.github.io/react/tips/introduction.html)
 1. [react-devtools](https://github.com/facebook/react-devtools)
 1. [React Cheat Sheet](http://reactcheatsheet.com/)
+1. [LearnCode.academy - React & Redux free tutorials ](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 
 ### ES2015+
 1. [Learn ES6 (ECMAScript 2015)](https://egghead.io/courses/learn-es6-ecmascript-2015)
@@ -101,7 +102,7 @@ The reason to keep this way of collaboration is to ensure that our list of resou
 
 **Inspiration**
 
-1. [You’re Missing the Point of React](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a#.qgt6xupid) 
+1. [You’re Missing the Point of React](https://medium.com/@dan_abramov/youre-missing-the-point-of-react-a20e34a51e1a#.qgt6xupid)
 1. [react-makes-you-sad](https://github.com/gaearon/react-makes-you-sad)
 1. [react-howto](https://github.com/petehunt/react-howto)
 1. [Your Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)
